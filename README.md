@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Iliyas-Shaik03&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Iliyas-Shaik03&label=Profile%20Views&color=6366f1&style=flat)](https://github.com/Iliyas-Shaik03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/shaik-iliyas-ahamed)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Iliyas-Shaik03)
 [![Email](https://img.shields.io/badge/Email-iliyasshaik780%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:iliyasshaik780@gmail.com)
